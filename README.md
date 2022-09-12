@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mirichteny
 - 👀 I’m interested in : java, lua
-- 🌱 I’m currently learning haskell
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : linkedin ( https://www.linkedin.com/in/mirich-t-b1aa97207/ ) 
 
